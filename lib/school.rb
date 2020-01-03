@@ -6,8 +6,9 @@ class School
     
     end
     
-    def add_student(student, grade)
-      roster << student=> grade
+    def add_student(student)
+      student.each do |h,k|
+        @roster << 
       
     end
     
