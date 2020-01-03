@@ -6,7 +6,7 @@ class School
     
     end
     
-    def add_student(student)
+    def add_student(student, grade)
       student.each do |h,k|
         h[k] = @roster
       end
