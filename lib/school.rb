@@ -3,7 +3,7 @@ class School
   
   def initialize(hash = {})
     @name = name
-    @roster = hash[-1]
+    @roster = hash.new_hash
   end
     
     
