@@ -4,7 +4,7 @@ class School
   hash = {}
   
   def initialize(hash)
-    hash = {}
+    @roster = hash
     
   end
     
