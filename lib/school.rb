@@ -3,7 +3,7 @@ class School
   
   
   
-  def initialize(hash)
+  def initialize(roster)
     @roster = {}
     
   end
