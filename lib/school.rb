@@ -6,7 +6,7 @@ class School
     
     end
     
-    def add_student(roster)
+    def add_student
     end
     
     
