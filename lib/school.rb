@@ -9,6 +9,8 @@ class School
     
     def add_student(grade,student)
       @roster = {student=>[grade]}
+      
+      add_student.each
     
       
     end
