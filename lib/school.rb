@@ -1,8 +1,11 @@
 class School 
   attr_accessor :name, :roster
   
+  hash = {}
+  
   def initialize(hash)
-    @roster = hash.new(0)
+    hash = {}
+    
   end
     
     
